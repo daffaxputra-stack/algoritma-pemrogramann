@@ -1,0 +1,43 @@
+<mxfile host="Electron" modified="2026-10-07T06:09:19.321Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.21 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="wyi6a0m7_KUXFqPoNFae" version="22.1.21" type="device">
+  <diagram name="Page-1" id="QJmu-9izwloA49f6CX2n">
+    <mxGraphModel dx="836" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Z0Vwu_eReFNQjkObz3cq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z0Vwu_eReFNQjkObz3cq-1" target="Z0Vwu_eReFNQjkObz3cq-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0Vwu_eReFNQjkObz3cq-1" value="mulai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="110" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0Vwu_eReFNQjkObz3cq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z0Vwu_eReFNQjkObz3cq-2" target="Z0Vwu_eReFNQjkObz3cq-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0Vwu_eReFNQjkObz3cq-2" value="input harga_satuan, jumlah_satuan, biaya_layanan" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="322.5" y="190" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0Vwu_eReFNQjkObz3cq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z0Vwu_eReFNQjkObz3cq-3" target="Z0Vwu_eReFNQjkObz3cq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0Vwu_eReFNQjkObz3cq-3" value="&lt;p class=&quot;MsoNormal&quot;&gt;subtotal = harga_satuan * jumlah_barang&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="290" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0Vwu_eReFNQjkObz3cq-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z0Vwu_eReFNQjkObz3cq-4" target="Z0Vwu_eReFNQjkObz3cq-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0Vwu_eReFNQjkObz3cq-4" value="&lt;p class=&quot;MsoNormal&quot;&gt;total = subtotal + biaya_layanan&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="390" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0Vwu_eReFNQjkObz3cq-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z0Vwu_eReFNQjkObz3cq-5" target="Z0Vwu_eReFNQjkObz3cq-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0Vwu_eReFNQjkObz3cq-5" value="subtotal, total" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="322.5" y="490" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0Vwu_eReFNQjkObz3cq-6" value="selesai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="590" width="80" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
